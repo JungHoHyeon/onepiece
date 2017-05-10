@@ -1,2 +1,5 @@
 "Hi, I'm master branch !"
 
+"Hi, I'm pirates branch !" //make conflict
+
+
